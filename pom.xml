@@ -103,7 +103,7 @@
 		<repository>
 			<id>deployment</id>
 			<name>Nexus Release Repository</name>			
-			<url>http://${nexusServerAdd}/repository/firstNexusRepo/</url>
+			<url>http://${nexusServerAdd}:8081/repository/firstNexusRepo/</url>
 		</repository>
 		<!--<snapshotRepository>
 			<id>deployment</id>
